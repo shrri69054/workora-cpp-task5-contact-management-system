@@ -1,0 +1,39 @@
+Loaded 3 contact(s) from contacts.txt
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Add contact
+2. View all contacts
+3. Search contact
+4. Edit contact
+5. Delete contact
+6. Save & Exit
+Choice:   [1] Arun Kumar | 9841012345 | arun.kumar@example.com | 12 Anna Salai, Chennai
+  [2] Priya Nair | 9884056789 | priya.nair@example.com | 45 Marina Road, Chennai
+  [3] Rahul Sharma | 9003011122 | rahul.sharma@example.com | 8 MG Road, Bengaluru
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Add contact
+2. View all contacts
+3. Search contact
+4. Edit contact
+5. Delete contact
+6. Save & Exit
+Choice: Name   : Phone  : Email  : Address:   Contact added.
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Add contact
+2. View all contacts
+3. Search contact
+4. Edit contact
+5. Delete contact
+6. Save & Exit
+Choice: Search by name or phone:   [4] Meena Iyer | 9000000001 | meena@example.com | Chennai
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Add contact
+2. View all contacts
+3. Search contact
+4. Edit contact
+5. Delete contact
+6. Save & Exit
+Choice: Contacts saved. Goodbye!

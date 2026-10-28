@@ -1,0 +1,3 @@
+Arun Kumar|9841012345|arun.kumar@example.com|12 Anna Salai, Chennai
+Priya Nair|9884056789|priya.nair@example.com|45 Marina Road, Chennai
+Rahul Sharma|9003011122|rahul.sharma@example.com|8 MG Road, Bengaluru
